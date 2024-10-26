@@ -459,7 +459,7 @@
 }
 .footerLogoText1{
     font-size: 15px;
-    margin-left: -150%;
+    margin-left: -120%;
     color: var(--light);;
 }
 
@@ -474,7 +474,7 @@
     font-weight: normal;
     border: 1px solid #FFFFFF;
     border-radius: 35px;
-    transition: .10s;
+    transition: .1s;
 }
 
 .footer .btn.btn-social:hover {
@@ -493,7 +493,7 @@
     font-weight: normal;
     border: 1px solid #FFFFFF;
     border-radius: 35px;
-    transition: .10s;
+    transition: .1s;
 }
 .btn2:hover{
     color: #06BBCC;
@@ -511,7 +511,7 @@
     font-size: 15px;
     font-weight: normal;
     text-transform: capitalize;
-    transition: .10s;
+    transition: .1s;
 }
 
 .footer .btn.btn-link::before {

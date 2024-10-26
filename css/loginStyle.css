@@ -27,7 +27,16 @@ body{
   border-radius: 5px;
   text-align: center;
   box-shadow: 10px 10px 15px rgba(0,0,0,0.1);
+  /* margin-right: 220px; */
+  margin-left: -185px;
+
 }
+.img-bckgrnd{
+    width: 65%;
+    /* margin: 20px; */
+    margin-left: -150px;
+}
+
 .wrapper header{
   font-size: 35px;
   font-weight: 600;
