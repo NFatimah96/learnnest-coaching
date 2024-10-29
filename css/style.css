@@ -449,6 +449,8 @@
 
 /*** Footer ***/
 .footerLogo{
+   width: 100%; 
+   margin: 10px;
 }
 .footerLogoText{
     font-size: 22px;
